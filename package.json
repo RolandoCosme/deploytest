@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -15,4 +20,5 @@
     "type": "git",
     "url": "git+https://git.heroku.com/thawing-fortress-95249.git"
   }
+
 }
