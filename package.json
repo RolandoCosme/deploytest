@@ -19,6 +19,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://git.heroku.com/thawing-fortress-95249.git"
-  }
-
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RutgersCodingBootcamp/deployment-1026-1027/issues"
+  },
+  "homepage": "https://github.com/RutgersCodingBootcamp/deployment-1026-1027#readme"
+}
 }
